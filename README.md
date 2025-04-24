@@ -7,5 +7,5 @@ Backend: The backend takes your question, sends it to the Ollama API, and gets a
 Display: The response is shown on the page right below your question(which may take some time).
 
 REQUIREMENTS:
-This program requires https://github.com/ollama/ollama and llama3.2 AI model to function properly along with the Ionide-fsharp extension.
+This program requires https://github.com/ollama/ollama and llama3.2 in order for the AI model to function properly along with the Ionide-fsharp extension.
 
