@@ -10,4 +10,4 @@ This program requires [Ollama](https://github.com/ollama/ollama) and llama3.2 in
 
    
 Site Preview
-https://kjosephhh.github.io/Midterm-Project/
+https://kjosephhh.github.io/Endterm-Project/
