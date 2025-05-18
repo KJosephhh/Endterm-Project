@@ -8,6 +8,7 @@ This program requires [Ollama](https://github.com/ollama/ollama) and llama3.2 in
 3. CD into the project folder and use the ```dotnet run``` command.
 4. You're done.
 
+<copy-button target-text="Hello this is Patrick"></copy-button>
 
 Site Preview
 https://kjosephhh.github.io/Midterm-Project/
