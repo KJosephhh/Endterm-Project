@@ -3,3 +3,5 @@ LLama Chat is a simple web app where you can talk to the LLama model using the O
 REQUIREMENTS:
 This program requires https://github.com/ollama/ollama and llama3.2 in order for the AI model to function properly along with the Ionide-fsharp extension.
 
+Site Preview
+https://kjosephhh.github.io/Midterm-Project/
