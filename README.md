@@ -2,8 +2,12 @@ LLama Chat is a simple web app where you can talk to the LLama model using the O
 
 REQUIREMENTS:
 This program requires https://github.com/ollama/ollama and llama3.2 in order for the AI model to function properly along with the Ionide-fsharp extension. 
-After you install Ollama just run, in your command bar.
-  ollama run llama3.2
+
+1. install Ollama and run it.
+2. Make sure you run the "ollama run llama3.2"
+3. CD into the project folder and use the "dotnet run" command.
+4. You're done.
+
 
 Site Preview
 https://kjosephhh.github.io/Midterm-Project/
